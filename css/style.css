@@ -1,0 +1,259 @@
+.container-body{
+	background-color: #EAF0F7;
+}
+.container-width{
+	position: absolute;
+	background-color: #FFF;
+	margin: 100px 70px;
+}
+.comon-margin-left{
+	margin-left: 50px;
+}
+.top-bg{
+	background-color: #1A253F;
+	height: 220px;
+}
+.top-head{
+	color: #B5C1E3;
+	font-weight: 700;
+}
+.top-head1{
+	color: #B5C1E3;
+	opacity: 0.7;
+	font-weight: 500;
+}
+.top-light-border{
+	border:2px solid #22A7BE;
+	width: 12px;
+	margin-top: 5px;
+}
+.comment-icon{
+	width: 30px;
+	height: 30px;
+	background-color: #4D79F6;
+	border-radius: 50%;
+	color: white;
+	text-align: center;
+	padding: 8px 0px;
+	margin: 128px 0px 0px -35px;
+}
+.top-head10{
+	font-size: 16px;
+	color: #5379F6;
+	font-weight: 600;
+}
+.top-head110{
+	color: #55649C;
+	opacity: 0.5;
+}
+.top-phn{
+	font-size: 18px;
+	color: #fff;
+	opacity: 0.7;
+	overflow: hidden;
+	margin: 5px 0px;
+}
+.top-nb{
+	font-size: 16px;
+	font-weight: 600;
+	opacity: 0.7;
+}
+.top-phn1{
+	font-size: 18px;
+	color: #fff;
+	opacity: 0.7;
+	overflow: hidden;
+	margin: 5px 0px;
+}
+.top-nb1{
+	font-size: 13.5px;
+	font-weight: 500;
+	opacity: 0.7;
+	letter-spacing: 0.5px;
+}
+.top-phn-icon1{
+	font-size: 14px;
+	color: #fff;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background-color: #2B55CC;
+	text-align: left;
+	padding: 13px 16px;
+	margin: 10px 5px 0px -75px;
+}
+.top-phn-icon2{
+	font-size: 14px;
+	color: #fff;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background-color: #4AC7EC;
+	text-align: left;
+	padding: 14px 14px;
+	margin: 10px 1px 0px -35px;
+}
+.top-phn-icon3{
+	font-size: 14px;
+	color: #fff;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background-color: #FF5DA0;
+	text-align: left;
+	padding: 14px 14px;
+}
+.border-about{
+	border: 1px dotted red;
+	border: 1px dotted red;
+	width: 110px;
+	padding: 1px;
+}
+.border-about1{
+	border: 1px dotted red;
+	width: 120px;
+	margin-top: -28px;
+}
+.border-skil{
+	border-left: 2px dotted #ABB1BA;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.path-top{
+	clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 58%, 100% 84%, 31% 95%, 0 80%, 0 55%, 0% 35%, 0 0);
+}
+.container20{
+	width: 95%;
+}
+.about-text{
+	color: black;
+	font-weight: 600;
+	letter-spacing: 1.5px;
+	opacity: 0.8;
+}
+.sub-top-text{
+	color:#55649C;
+	margin: 14px 0px;
+}
+.cv-button{
+	color: #5379F6;
+	font-weight: normal; 
+}
+.cv-button:hover{
+	color: #fff;
+	font-weight: normal; 
+	background-color: #5379F6;
+}
+.heading-top-text{
+	color: #5379F6;
+	margin: 8px 0px;
+	font-weight: 700;
+}
+.icon-skil{
+	font-size: 45px;
+	opacity: 0.200;
+	margin: 20px 0px 10px 0px;
+	text-align: center;
+	margin-left: 15px;
+}
+.education-text{
+	color:#5379F6;
+	font-size: 18px;
+	font-weight: 500;
+}
+.icon-circle1{
+margin-top: 3px;
+position: absolute;
+margin-left: -7px;
+color:#5379F6;
+background: #fff;
+}
+.icon-circle3{
+	margin-top: 172px;
+position: absolute;
+margin-left: -7px;
+color:#5379F6;
+background: #fff;
+}.icon-circle2{
+	margin-top: 88px;
+position: absolute;
+margin-left: -7px;
+color:#5379F6;
+background: #fff;
+}
+.year-text{
+	color:#55649C;
+	font-size: 15px;
+}
+.middle-bg{
+	height: 150px;
+	background-color: #1A253F;
+	margin-top: 50px;
+	position: relative;
+}
+.counting-element{
+	position: absolute;
+}
+.icon-middle{
+	font-size: 40px;
+	color: yellow;
+	margin: auto;
+	margin-top: 40px;
+}
+.img-counting{
+	padding: 35px 0px 0px 0px;
+}
+.icon-middle-contact{
+	font-size: 22px;
+	color: #5379F6;
+	margin: auto;
+	margin-top: 40px;
+}
+.icon-middle10{
+	font-size: 80px;
+	color: #5379F6;
+	margin-top: 80px;
+}
+.sub-text-middle{
+	color:#55649C;
+	margin-top: 20px;
+}
+.button-group button {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.button-group button:hover{
+    border-bottom: 2px solid #9883BB;
+  
+}
+.grid-item {
+  float: left;
+  width: 33.3333%;
+  height: auto;
+
+
+}
+.grid-sizer{
+	width: 33.333%;
+}
+
+.grid-item--width2 { width: 33.3333%; }
+.grid-item--height2 { height: 33.3333%; }
+.icon-contact{
+	font-size: 40px;
+	color: #5379F6;
+}
+.sub-button{
+	padding: 8px 30px;
+	background-color: #5379F6;
+	color: #FFF;
+	font-weight: 500;
+	font-size: 14px;
+}
+.skil-bar-background{
+	border-outline:1px solid;
+}
